@@ -12,8 +12,6 @@ I enjoy transforming complex data into clear insights, combining scientific rigo
 - PhD in Condensed Matter Physics, Nanoscience & Biophysics
 - MSc in Advanced Materials, Nanotechnology & Photonics
 - BSc in Chemistry
-- Higher Technician in Laboratory Analysis & Quality Control
-- Cambridge English B2 
 
 ## My background combines:
 - Advanced data analysis
@@ -35,8 +33,6 @@ I am currently building projects related to:
 - Business Intelligence dashboards
 - Data visualization
 - Scientific & industrial analytics
-- Process optimization
-- Automation and reporting
 
 ---
 
@@ -62,6 +58,7 @@ I am currently building projects related to:
 - Materials characterization
 - Laboratory workflows
 - Statistical analysis
+
 ---
 
 ## Featured Projects
