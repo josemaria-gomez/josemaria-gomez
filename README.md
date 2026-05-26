@@ -1,6 +1,6 @@
-## Hi, I'm José María Gómez Fernández. 
+## Hi there! 
 
-PhD in Condensed Matter Physics, Nanoscience & Biophysics with a background in Advanced Materials, Nanotechnology and Chemistry.  
+I'm José María Gómez Fernández. A PhD in Condensed Matter Physics, Nanoscience & Biophysics with a background in Advanced Materials, Nanotechnology and Chemistry.
 Currently transitioning into Data Analytics, Business Intelligence and Tech Consulting.
 
 I enjoy transforming complex data into clear insights, combining scientific rigor with analytical thinking
