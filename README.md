@@ -60,8 +60,40 @@ I am currently building projects related to:
 - Materials characterization
 - Laboratory workflows
 - Statistical analysis
+---
 
-- 
+## Featured Projects
+
+### Experimental Data Analysis
+Analysis and visualization of scientific datasets using Python and pandas.
+
+### BI Dashboard for Laboratory KPIs
+Interactive dashboard focused on process monitoring, quality metrics and reporting.
+
+### Data Cleaning & Automation
+Automating preprocessing workflows and generating structured reports from raw datasets.
+
+---
+
+## What I'm Looking For
+
+I am interested in opportunities related to:
+
+- Data Analyst
+- Junior BI Analyst
+- Scientific Data Analyst
+- Technology Consulting
+- R&D Analytics
+- Deep-Tech Consulting
+
+Open to opportunities in Spain and across Europe.
+
+---
+
+## Let's Connect
+
+- LinkedIn: www.linkedin.com/in/jose-maria-gomez-fernandez-phd-abab7b165
+- Email: jsmrgf@gmail.com
 <!--
 **josemaria-gomez/josemaria-gomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
